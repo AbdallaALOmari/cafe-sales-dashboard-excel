@@ -35,7 +35,7 @@ To track key sales KPIs and identify trends across products, branches, payment m
 - `dashboard-preview.png` - dashboard preview image
 
 ## Preview
-![Cafe Sales Dashboard](dashboard-preview.png)
+![Cafe Sales Dashboard](Dashboard.png)
 
 ## Why This Project Matters
 This project demonstrates Excel-based dashboarding, KPI reporting, business analysis, and decision support.
